@@ -14,6 +14,11 @@ public class Program{
            
         emp();
         Console.WriteLine("jsdfsn");
+                Console.WriteLine("jsdfsn");
+
+        Console.WriteLine("jsdfsn");
+
+
     }
 
 }
