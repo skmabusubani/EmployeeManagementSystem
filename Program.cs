@@ -13,6 +13,7 @@ public class Program{
         emp+=mx.CalculateSalary;
            
         emp();
+        Console.WriteLine("jsdfsn");
     }
 
 }
